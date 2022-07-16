@@ -21,7 +21,6 @@ files {
     'html/script.js',
     'html/musica.mp3',
     'html/click.wav',
-    'html/qb-pixel.png',
 }
 
 dependencies {
