@@ -51,7 +51,7 @@ local function openCharMenu(bool)
     end)
 end
 
--- Events
+---- Events
 
 AddEventHandler('QBCore:Client:OnPlayerLoaded', function()
     SendNUIMessage({
